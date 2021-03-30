@@ -1,4 +1,5 @@
 # Skins-Props
+说明: 支持Issues和Pull requests, 感谢你提交的每一个关于设置皮肤的方法(可提交源码示例)
 | Prop类型 | Prop内容 | Prop作用 | Prop作用对象|Prop传值|
 |:---------|:---------|:---------|:------------|:-------|
 |Prop_Send|m_nFallbackPaintKit|设置Weapon(entity)皮肤|Weapon_Index|Skins_Index|
